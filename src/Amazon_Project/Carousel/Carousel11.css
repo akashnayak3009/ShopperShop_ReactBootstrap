@@ -1,0 +1,23 @@
+
+  .carousel-caption {
+    background-color: rgba(238, 122, 27, 0.5);
+    color: #fff;
+    font-size: 24px;
+    padding: 20px;
+  }
+  .carousel-control-prev-icon {
+    transform: scaleX(2);
+  }
+  
+  .carousel-control-next-icon {
+    transform: scaleX(2);
+  }
+  
+  .carousel-indicators  {
+    bottom: 75px;
+  }
+  
+  .carousel-indicators .active {
+    background-color: #fff;
+  }
+  

@@ -1,0 +1,60 @@
+.my-navbar {
+    background-color: #232f3e;
+    font-size: 10px;
+}
+#brandShop{
+  text-decoration:none;
+  color:white;
+  position: absolute;
+ left:17px;
+ top:13px
+}
+.my-home{
+  margin-left:8rem;
+}
+#basic-nav-dropdown{
+  color: white;
+  margin-right:2rem;
+  font-size:18px;
+}
+.small-input{
+  font-size:15px;
+  size: 20px;
+}
+.d-flex{
+  width:500px;
+  height: fit-content;
+  position: absolute;
+  right: 0px;
+}
+.my-cart{
+  font-size: 18px;
+}
+.btn-lg{
+  margin-left: -22px;
+}
+.resizedCard {
+  width: 300px; /* Adjust the width as per your requirement */
+  margin: 0 auto; /* Centers the card horizontally */
+}
+
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 200px; /* Adjust the height as per your requirement */
+}
+
+.titleCard {
+  text-align: center;
+}
+
+.btnCard {
+  margin-top: 20px; /* Adjust the margin-top as per your requirement */
+}
+
+#signButton{
+  text-decoration: none;
+  color: red;
+}

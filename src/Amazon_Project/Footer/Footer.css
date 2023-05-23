@@ -1,0 +1,13 @@
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+  }
+  .amazonFoot{
+    margin-top: 400px;
+  }
+  .footer-bottom {
+    margin-top: auto;
+  }
+  

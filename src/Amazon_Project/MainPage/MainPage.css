@@ -1,0 +1,9 @@
+.cardpara{
+    margin-top: -80px;
+    margin-right: 40px;
+    margin-left: 15px;
+}
+.cardContainer{
+    position: absolute;
+    left:0;
+}
