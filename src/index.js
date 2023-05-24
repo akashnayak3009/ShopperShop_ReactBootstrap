@@ -9,11 +9,12 @@ import '../node_modules/bootstrap-icons/font/bootstrap-icons.css';
 import reportWebVitals from './reportWebVitals';
 
 import Appy from './Amazon_Project/Appy';
+import ShopComp from './Amazon_Project/ShopComp/ShopComp';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Appy/>
+    <ShopComp/>
   </React.StrictMode>
 );
 

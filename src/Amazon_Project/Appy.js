@@ -3,6 +3,7 @@ import { BrowserRouter, Routes, Route} from 'react-router-dom';
 import NavbarUpper from './NavbarUpper/NavbarUpper'
 
 import LoginForm from "./LoginForm/LoginForm";
+import MainPage from "./MainPage/MainPage";
 
 
 const Appy = () => {

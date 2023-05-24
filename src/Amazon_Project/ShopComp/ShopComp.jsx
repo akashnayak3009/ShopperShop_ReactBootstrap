@@ -5,12 +5,7 @@ const ShopComp=()=>
 {
     const [categories, setCategories] = useState([]);
     const [products, setProducts] = useState([]);
-    const [cartItems, setCartItems] = useState([]);
-    const [itemsCount, setItemsCount] = useState(0);
 
-    function GetCartItemsCount(){
-        setItemsCount(cartItems.length);
-    }
 
     function LoadCategories(){
         fetch('http://fakestoreapi.com/products/categories')
